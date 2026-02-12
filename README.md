@@ -44,5 +44,3 @@ Currently seeking:
 LinkedIn: https://www.linkedin.com/in/nicolle-munar-quintero-bb8a061a8/  
 Email: nicollemunar@gmail.com
 --
-- ⚡ Fun fact: ...
--->
