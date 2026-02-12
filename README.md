@@ -1,6 +1,5 @@
-## Hi there 👋
 
-## Hi, I'm Nicolle 👋
+##             Hi, I'm Nico 👋
 
 🎓 Computer Information Systems Graduate (GPA 3.8 – High Honors)  
 💻 Entry-Level Software Developer | Java • SQL • OOP  
