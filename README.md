@@ -1,11 +1,11 @@
 
 ##             Hi, I'm Nico 👋
 
--🎓 Associates in Computer Information Systems Graduate
--🔥 Junior year at the University of Pittsburgh in Computer Science
--💻 Entry-Level Software Developer | Java • SQL • OOP  
--📍 Pittsburgh, PA | Authorized to work in the U.S.  
--🌎 Bilingual (English & Spanish)
+-🎓 Associates in Computer Information Systems Graduate <br>
+-🔥 Junior year at the University of Pittsburgh in Computer Science <br>
+-💻 Entry-Level Software Developer | Java • SQL • OOP <br>
+-📍 Pittsburgh, PA | Authorized to work in the U.S. <br>  
+-🌎 Bilingual (English & Spanish) <br>
 
 ---
 
