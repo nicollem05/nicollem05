@@ -1,7 +1,8 @@
 
 ##             Hi, I'm Nico 👋
 
-🎓 Computer Information Systems Graduate (GPA 3.8 – High Honors)  
+🎓 Associates in Computer Information Systems Graduate 
+🔥 Junior year at the University of Pittsburgh in Computer Science
 💻 Entry-Level Software Developer | Java • SQL • OOP  
 📍 Pittsburgh, PA | Authorized to work in the U.S.  
 🌎 Bilingual (English & Spanish)
@@ -17,13 +18,14 @@ My background in user centered design also allows me to think beyond functionali
 Currently seeking:
 - Junior Software Developer roles
 - Software Engineering Internships
+- ux desing interships
 - IT / Technical Support roles
 
 ---
 
 ## 🛠 Technical Skills
 
-**Languages:** Java, C++, C, HTML  
+**Languages:** Java, C++, C, HTML , python  
 **Database:** MySQL, SQL, Relational Database Design  
 **Tools:** IntelliJ, Eclipse, Maven, JavaFX, VS Code  
 **Concepts:** OOP, Data Structures, Inheritance, Encapsulation, Polymorphism, SQL Joins, Indexing  
@@ -41,6 +43,6 @@ Currently seeking:
 
 ## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/nicolle-munar-quintero-bb8a061a8/  
+LinkedIn: https://www.linkedin.com/in/nicolle-munar-quintero-bb8a061a8/ 
 Email: nicollemunar@gmail.com
 --
