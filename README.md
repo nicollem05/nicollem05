@@ -1,41 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Nico%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=600&lines=Computer+Science+%40+University+of+Pittsburgh;Java+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+React;Backend+Systems+%2B+Human-Centered+Design;Open+to+internships+%26+junior+roles!" alt="Typing SVG" /> </div>
-<div align="center">
-💫 About Me
-
-🎓 Junior in Computer Science at the University of Pittsburgh<br> 🎓 Associate's degree in Computer Information Systems<br> 💻 Building backend systems, simulations & user-friendly apps<br> 🔍 Seeking Software Engineering, UX Design & IT internships<br> 🌎 Bilingual: English & Spanish<br> 📍 Pittsburgh, PA · Authorized to work in the U.S.
-
-</div>
-<div align="center">
-💻 Tech Stack
-
-Languages<br> Show Image Show Image Show Image Show Image Show Image Show Image
-
-Frontend & Backend<br> Show Image Show Image Show Image Show Image Show Image Show Image Show Image
-
-Data & Databases<br> Show Image Show Image Show Image Show Image
-
-Design<br> Show Image Show Image Show Image Show Image Show Image
-
-Tools<br> Show Image Show Image Show Image Show Image
-
-</div>
-<div align="center">
-📌 Featured Projects
-Project	Description	Tech
-🛒 SuperMarket Simulation	Models customers and checkout lines in a store	Java
-🚗 Parking Enforcement System	Manages vehicles, permits & citations	Java
-📚 Bookstore Inventory Database	Relational database for inventory & sales	MySQL
-🎰 Slot Machine	Interactive slot machine game with a GUI	JavaFX
-</div>
-<div align="center">
-📊 GitHub Stats
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=nicollem05&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false"/> <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nicollem05&theme=blue_navy&hide_border=true&layout=compact"/> <img src="https://streak-stats.demolab.com/?user=nicollem05&theme=blue_navy&hide_border=true"/>
-🔝 Top Contributed Repos
-<img src="https://github-contributor-stats.vercel.app/api?username=nicollem05&limit=5&theme=transparent&combine_all_yearly_contributions=true"/>
-✍️ Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/> </div>
-<div align="center">
-📫 Connect With Me
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Nico%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=600&lines=Computer+Science+%40+University+of+Pittsburgh;Java+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+React;Backend+Systems+%2B+Human-Centered+Design;Open+to+internships+%26+junior+roles!" alt="Typing SVG"/> <hr> <h2>💫 About Me</h2> <p> 🎓 <b>Junior</b> in Computer Science at the <b>University of Pittsburgh</b><br> 🎓 Associate's degree in Computer Information Systems<br> 💻 Building backend systems, simulations &amp; user-friendly apps<br> 🔍 Seeking <b>Software Engineering, UX Design &amp; IT internships</b><br> 🌎 Bilingual: English &amp; Spanish<br> 📍 Pittsburgh, PA · Authorized to work in the U.S. </p> <hr> <h2>💻 Tech Stack</h2> <p><b>Languages</b><br> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </p> <p><b>Frontend &amp; Backend</b><br> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=javafx&logoColor=white"/> <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white"/> </p> <p><b>Data &amp; Databases</b><br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/> </p> <p><b>Design</b><br> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/> <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/> </p> <p><b>Tools</b><br> <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/> </p> <hr> <h2>📌 Featured Projects</h2> <table> <tr> <th>Project</th> <th>Description</th> <th>Tech</th> </tr> <tr> <td>🛒 <a href="https://github.com/nicollem05/SuperMarketSimulation">SuperMarket Simulation</a></td> <td>Models customers and checkout lines in a store</td> <td>Java</td> </tr> <tr> <td>🚗 <a href="https://github.com/nicollem05/parking-enforcement-system">Parking Enforcement System</a></td> <td>Manages vehicles, permits &amp; citations</td> <td>Java</td> </tr> <tr> <td>📚 <a href="https://github.com/nicollem05/ccac-bookstore-inventory-system">Bookstore Inventory Database</a></td> <td>Relational database for inventory &amp; sales</td> <td>MySQL</td> </tr> <tr> <td>🎰 <a href="https://github.com/nicollem05/Slot-machine">Slot Machine</a></td> <td>Interactive slot machine game with a GUI</td> <td>JavaFX</td> </tr> </table> <hr> <h2>📊 GitHub Stats</h2> <img height="170" src="https://github-readme-stats.shion.dev/api?username=nicollem05&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false"/> <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nicollem05&theme=blue_navy&hide_border=true&layout=compact"/> <br><br> <img src="https://streak-stats.demolab.com/?user=nicollem05&theme=blue_navy&hide_border=true"/> <h3>✍️ Dev Quote</h3> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/> <hr> <h2>📫 Connect With Me</h2>
 
 <a href="https://www.linkedin.com/in/nicolle-munar-quintero-bb8a061a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:nicollemunar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
