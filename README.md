@@ -1,6 +1,44 @@
-Readme · MD
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5c0a0a,50:b71c1c,100:e53935&height=200&section=header&text=Hi,%20I'm%20Nico&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="70"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF5252&center=true&vCenter=true&width=600&lines=Computer+Science+%40+University+of+Pittsburgh;Java+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+React;Backend+Systems+%2B+Human-Centered+Design;Open+to+internships+%26+junior+roles!" alt="Typing SVG"/> <p> 🎓 CS Junior @ <b>University of Pittsburgh</b> · A.S. in Computer Information Systems<br> 🔍 Seeking <b>Software Engineering, UX Design &amp; IT internships</b><br> 🌎 Bilingual (English &amp; Spanish) · 📍 Pittsburgh, PA · Authorized to work in the U.S. </p> <h2>💻 Tech Stack</h2> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <br> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=javafx&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/> <h2>📌 Featured Projects</h2> <table> <tr> <td align="center" width="50%"> <h1>🛒</h1> <a href="https://github.com/nicollem05/SuperMarketSimulation"><b>SuperMarket Simulation</b></a> <p><sub>Models customers and checkout lines to see how a store handles traffic</sub></p> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/OOP-E53935?style=flat-square"/> <br><br> </td> <td align="center" width="50%"> <h1>🚗</h1> <a href="https://github.com/nicollem05/parking-enforcement-system"><b>Parking Enforcement System</b></a> <p><sub>Manages vehicles, permits and citations for a parking operation</sub></p> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/OOP-E53935?style=flat-square"/> <br><br> </td> </tr> <tr> <td align="center" width="50%"> <h1>📚</h1> <a href="https://github.com/nicollem05/ccac-bookstore-inventory-system"><b>Bookstore Inventory Database</b></a> <p><sub>Relational database for tracking a bookstore's inventory and sales</sub></p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-E53935?style=flat-square"/> <br><br> </td> <td align="center" width="50%"> <h1>🎰</h1> <a href="https://github.com/nicollem05/Slot-machine"><b>Slot Machine</b></a> <p><sub>Interactive slot machine game with a graphical interface</sub></p> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaFX-FF0000?style=flat-square&logo=javafx&logoColor=white"/> <br><br> </td> </tr> </table> <h2>📊 GitHub Stats</h2> <img height="180" src="https://github-readme-stats.shion.dev/api?username=nicollem05&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&card_width=420"/> <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nicollem05&theme=blue_navy&hide_border=true&layout=compact&card_width=420&langs_count=8"/> <h2>📫 Connect With Me</h2>
+<div align="center">
 
-<a href="https://www.linkedin.com/in/nicolle-munar-quintero-bb8a061a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:nicollemunar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5c0a0a,50:b71c1c,100:e53935&height=200&section=header&text=Hi,%20I'm%20Nico&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5c0a0a,50:b71c1c,100:e53935&height=100&section=footer" width="100%"/> </div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="70"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF5252&center=true&vCenter=true&width=600&lines=Computer+Science+%40+University+of+Pittsburgh;Java+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+React;Backend+Systems+%2B+Human-Centered+Design;Open+to+internships+%26+junior+roles!" alt="Typing SVG"/>
+
+<p>
+🎓 CS Junior @ <b>University of Pittsburgh</b> · A.S. in Computer Information Systems<br>
+🔍 Seeking <b>Software Engineering, UX Design &amp; IT internships</b><br>
+🌎 Bilingual (English &amp; Spanish) · 📍 Pittsburgh, PA · Authorized to work in the U.S.
+</p>
+
+<h2>💻 Tech Stack</h2>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=javafx&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+
+<h2>📊 GitHub Stats</h2>
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=nicollem05&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&card_width=420"/>
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nicollem05&theme=blue_navy&hide_border=true&layout=compact&card_width=420&langs_count=8"/>
+
+<h2>📫 Connect With Me</h2>
+
+<a href="https://www.linkedin.com/in/nicolle-munar-quintero-bb8a061a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nicollemunar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5c0a0a,50:b71c1c,100:e53935&height=100&section=footer" width="100%"/>
+
+</div>
