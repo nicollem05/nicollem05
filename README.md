@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2500&pause=2000&color=A855F7&center=true&vCenter=true&width=600&height=70&lines=Nicolle+Munar" alt="Nicolle Munar" /> </p>
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Nicolle+Munar" /> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2500&pause=2000&color=1F2328&center=true&vCenter=true&width=600&height=70&lines=Nicolle+Munar" alt="Nicolle Munar" /> </picture> </p>
 
 Entry-Level Software Developer · Pittsburgh, PA · Authorized to work in the U.S. · Bilingual (English / Spanish)
 
