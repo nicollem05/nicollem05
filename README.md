@@ -1,4 +1,27 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:4a0e0e,100:7f1d1d&height=200&section=header&text=Hi,%20I'm%20Nico&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="70"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E05252&center=true&vCenter=true&width=600&lines=Computer+Science+%40+University+of+Pittsburgh;Java+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+React;Backend+Systems+%2B+Human-Centered+Design;Open+to+internships+%26+junior+roles!" alt="Typing SVG"/> <p> 🎓 CS Junior @ <b>University of Pittsburgh</b> · A.S. in Computer Information Systems<br> 🔍 Seeking <b>Software Engineering, UX Design &amp; IT internships</b><br> 🌎 Bilingual (English &amp; Spanish) · 📍 Pittsburgh, PA · Authorized to work in the U.S. </p> <h2>💻 Tech Stack</h2> <img src="https://img.shields.io/badge/Java-21262d?style=for-the-badge&logo=openjdk&logoColor=c9d1d9"/> <img src="https://img.shields.io/badge/Python-21262d?style=for-the-badge&logo=python&logoColor=c9d1d9"/> <img src="https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript&logoColor=c9d1d9"/> <img src="https://img.shields.io/badge/TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=c9d1d9"/> <img src="https://img.shields.io/badge/C++-21262d?style=for-the-badge&logo=c%2B%2B&logoColor=c9d1d9"/> <img src="https://img.shields.io/badge/HTML5-21262d?style=for-the-badge&logo=html5&logoColor=c9d1d9"/> <br> <img src="https://img.shields.io/badge/React-21262d?style=for-the-badge&logo=react&logoColor=c9d1d9"/> <img src="https://img.shields.io/badge/Node.js-21262d?style=for-the-badge&logo=node.js&logoColor=c9d1d9"/> <img src="https://img.shields.io/badge/Flask-21262d?style=for-the-badge&logo=flask&logoColor=c9d1d9"/> <img src="https://img.shields.io/badge/JavaFX-21262d?style=for-the-badge&logo=javafx&logoColor=c9d1d9"/> <img src="https://img.shields.io/badge/MySQL-21262d?style=for-the-badge&logo=mysql&logoColor=c9d1d9"/> <img src="https://img.shields.io/badge/Figma-21262d?style=for-the-badge&logo=figma&logoColor=c9d1d9"/> <img src="https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=c9d1d9"/> 
+Nicolle Munar
 
- <h2>📫 Connect With Me</h2>
-</div>
+Entry-Level Software Developer · Pittsburgh, PA · Authorized to work in the U.S. · Bilingual (English / Spanish)
+
+I build logical systems, simulations and structured backend applications, with a user-centered design eye for usability.
+
+🎓 B.S. Computer Information Systems, GPA 3.8 (High Honors) 🎯 Open to Junior Software Developer roles, Software Engineering internships and IT / Technical Support roles
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c,py,js,html,flask,mysql,maven,figma,idea,eclipse,vscode,git,github,windows&theme=dark&perline=8" alt="Tech stack: Java, C++, C, Python, JavaScript, HTML, Flask, MySQL, Maven, Figma, IntelliJ IDEA, Eclipse, VS Code, Git, GitHub, Windows" />
+Featured projects
+Project	What it does	Key stack
+SuperMarket Simulation	Simulates a supermarket's day-to-day operations	Java · OOP
+Parking Enforcement System	Collaborating classes (car, meter, officer) detect expired time and issue tickets with tiered fines	Java · OOP
+Bookstore Inventory Database	Relational database for a bookstore: ERD design, normalization and indexing	SQL · MySQL
+Slot Machine	Desktop slot machine game with a graphical interface	Java · JavaFX
+More work
+Repo	What it does	Key stack
+CIT230FinalProject	Academic database plus complex queries on the sakila and world databases	SQL
+Assigment3-ArrayList	Data analysis and sports-history lookups with file I/O and custom classes	Java
+IPOO-Final-Proyect	Patient and medical records management using plain text files	C++
+Programming-Challenges	Logic exercises: grades, discounts, bank fees and simple games	Java
+
+Concepts: OOP (inheritance, encapsulation, polymorphism) · data structures · relational database design · SQL joins and indexing
+
+Connect
+
+LinkedIn · nicollemunar@gmail.com
